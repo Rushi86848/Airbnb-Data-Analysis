@@ -21,7 +21,22 @@ https://drive.google.com/file/d/1xWguVWCc5ZILHZKhEM_JcNT8vujvCrQx/view?usp=share
 Pip install Pandas
 import pandas as pd 
 ```
-
+```bash
+pip install numpy
+import numpy as np
+```
+```bash
+pip install matplotlib
+import matplotlib.pyplot as plt
+```
+```bash
+pip install seaborb
+import seaborb as sns
+```
+```bash
+pip install plotly
+import plotly.express as px
+```
 ### Please Go through Airbnb HLD.pdf and Airbnb LLD.pdf for more Details.
 
 ![Screenshot_20221210_051351](https://user-images.githubusercontent.com/120455099/207517255-9b29cf7e-ed8c-4f9a-800d-0d0fa953bf7b.png)
