@@ -10,6 +10,10 @@ The objective of the project is to perform data visualization techniques to unde
 
 • https://docs.google.com/spreadsheets/d/1MubghsYSjjFExXjbm6DgiO_jkhe4EUaH/edit?usp=share_link&ouid=101770340771833302233&rtpof=true&sd=true
 
+## Jupyter Notebook of Exploratery Data Analysis(EDA) on Airbnb Data
+• Download the python file manually : Airbnb Project EDA.jpynb file from following Drive Link
+https://drive.google.com/file/d/1jJ_QoeIyofHZWlG-5NaMOaD3PWBCT8wH/view?usp=share_link
+
 
 
 ![Screenshot_20221210_051351](https://user-images.githubusercontent.com/120455099/207517255-9b29cf7e-ed8c-4f9a-800d-0d0fa953bf7b.png)
