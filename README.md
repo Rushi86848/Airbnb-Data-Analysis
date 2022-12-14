@@ -18,8 +18,10 @@ https://drive.google.com/file/d/1jJ_QoeIyofHZWlG-5NaMOaD3PWBCT8wH/view?usp=share
 https://drive.google.com/file/d/1xWguVWCc5ZILHZKhEM_JcNT8vujvCrQx/view?usp=share_link
 ## setup & Requirments
 ```bash
-$ Pip install Pandas
+Pip install Pandas
+import pandas as pd 
 ```
+
 ### Please Go through Airbnb HLD.pdf and Airbnb LLD.pdf for more Details.
 
 ![Screenshot_20221210_051351](https://user-images.githubusercontent.com/120455099/207517255-9b29cf7e-ed8c-4f9a-800d-0d0fa953bf7b.png)
