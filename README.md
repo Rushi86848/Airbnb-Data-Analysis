@@ -13,7 +13,9 @@ The objective of the project is to perform data visualization techniques to unde
 ## Jupyter Notebook of Exploratery Data Analysis(EDA) on Airbnb Data
 • Download the python file manually : Airbnb Project EDA.jpynb file from following Drive Link
 https://drive.google.com/file/d/1jJ_QoeIyofHZWlG-5NaMOaD3PWBCT8wH/view?usp=share_link
-
+## Power Bi Desktop Repoet FILe
+• Download the pbix file manually : Airbnb Dashboard.pbix file from following Drive Link
+https://drive.google.com/file/d/1xWguVWCc5ZILHZKhEM_JcNT8vujvCrQx/view?usp=share_link
 
 
 ![Screenshot_20221210_051351](https://user-images.githubusercontent.com/120455099/207517255-9b29cf7e-ed8c-4f9a-800d-0d0fa953bf7b.png)
