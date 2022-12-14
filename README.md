@@ -17,7 +17,8 @@ https://drive.google.com/file/d/1jJ_QoeIyofHZWlG-5NaMOaD3PWBCT8wH/view?usp=share
 • Download the pbix file manually : Airbnb Dashboard.pbix file from following Drive Link
 https://drive.google.com/file/d/1xWguVWCc5ZILHZKhEM_JcNT8vujvCrQx/view?usp=share_link
 
-Please Go through Pose_With_Action_HLD2.docx for more info.
+## Please Go through Airbnb_HLD.pdf and Airbnb_LLD.pdf for more Details.
+
 ![Screenshot_20221210_051351](https://user-images.githubusercontent.com/120455099/207517255-9b29cf7e-ed8c-4f9a-800d-0d0fa953bf7b.png)
 
 ![Homepage](https://user-images.githubusercontent.com/120455099/207515539-6df64ecf-3f6a-4733-9389-994969aae548.png) 
