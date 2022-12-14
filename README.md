@@ -5,4 +5,6 @@ Since 2008, guests and hosts have used Airbnb to expand on travelling possibilit
 
 The objective of the project is to perform data visualization techniques to understand the insight of the data. This project aims to apply Exploratory Data Analysis (EDA) and Business Intelligence tools such as Power BI to get a visual understanding of the data.
 
-![Homepage](https://user-images.githubusercontent.com/120455099/207515539-6df64ecf-3f6a-4733-9389-994969aae548.png) ![Screenshot_20221210_051351](https://user-images.githubusercontent.com/120455099/207517255-9b29cf7e-ed8c-4f9a-800d-0d0fa953bf7b.png)
+![Screenshot_20221210_051351](https://user-images.githubusercontent.com/120455099/207517255-9b29cf7e-ed8c-4f9a-800d-0d0fa953bf7b.png)
+
+![Homepage](https://user-images.githubusercontent.com/120455099/207515539-6df64ecf-3f6a-4733-9389-994969aae548.png) 
