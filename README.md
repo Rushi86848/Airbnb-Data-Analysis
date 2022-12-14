@@ -1,5 +1,5 @@
 # Airbnb-Data-Analysis
-I Created this Internship Portfolio Data Analysis Project Using ### "Python" to perform "Exploratery Data anslysis (EDA)" and Creating "Dashboard report" Using "Power BI".
+#### I Created this Internship Portfolio Data Analysis Project Using "Python" to perform "Exploratery Data anslysis (EDA)" and Creating "Dashboard report" Using "Power BI".
 
 Since 2008, guests and hosts have used Airbnb to expand on travelling possibilities and present more unique, personalized way of experiencing the world. This dataset describes the listing activity and metrics in Amsterdam, Netherland for 2019.
 
